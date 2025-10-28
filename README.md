@@ -1,2 +1,1 @@
-# inet_4031_adduser_script
-Lab 8 part 2
+# INET 4031 Add User Script
